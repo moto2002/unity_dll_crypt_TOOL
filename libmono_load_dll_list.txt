@@ -1,0 +1,35 @@
+-------需要加密加载的DLL--------
+libmono load dll name:/mnt/asec/com.netease.officerumble-1/pkg.apk/assets/bin/Data/Managed/UnityEngine.dll
+libmono load dll name:/mnt/asec/com.netease.officerumble-1/pkg.apk/assets/bin/Data/Managed/Assembly-CSharp-firstpass.dll 
+libmono load dll name:/mnt/asec/com.netease.officerumble-1/pkg.apk/assets/bin/Data/Managed/Assembly-CSharp.dll 
+libmono load dll name:/mnt/asec/com.netease.officerumble-1/pkg.apk/assets/bin/Data/Managed/Assembly-UnityScript.dll 
+libmono load dll name:/mnt/asec/com.netease.officerumble-1/pkg.apk/assets/bin/Data/Managed/TcpClientImplementation.dll 
+libmono load dll name:/mnt/asec/com.netease.officerumble-1/pkg.apk/assets/bin/Data/Managed/IFacebook.dll
+libmono load dll name:/mnt/asec/com.netease.officerumble-1/pkg.apk/assets/bin/Data/Managed/GPGSUtils.dll 
+libmono load dll name:/mnt/asec/com.netease.officerumble-1/pkg.apk/assets/bin/Data/Managed/ICSharpCode.SharpZipLib.dll
+libmono load dll name:/mnt/asec/com.netease.officerumble-1/pkg.apk/assets/bin/Data/Managed/P31RestKit.dll
+libmono load dll name:/mnt/asec/com.netease.officerumble-1/pkg.apk/assets/bin/Data/Managed/SimpleJson.dll
+libmono load dll name:/mnt/asec/com.netease.officerumble-1/pkg.apk/assets/bin/Data/Managed/SocketIO.dll
+libmono load dll name:/mnt/asec/com.netease.officerumble-1/pkg.apk/assets/bin/Data/Managed/StringTokenizer.cs.dll 
+libmono load dll name:/mnt/asec/com.netease.officerumble-1/pkg.apk/assets/bin/Data/Managed/SuperSocket.ClientEngine.Common.dll
+libmono load dll name:/mnt/asec/com.netease.officerumble-1/pkg.apk/assets/bin/Data/Managed/SuperSocket.ClientEngine.Core.dll 
+libmono load dll name:/mnt/asec/com.netease.officerumble-1/pkg.apk/assets/bin/Data/Managed/SuperSocket.ClientEngine.Protocol.dll
+libmono load dll name:/mnt/asec/com.netease.officerumble-1/pkg.apk/assets/bin/Data/Managed/SuperSocket.ClientEngine.Proxy.dll
+libmono load dll name:/mnt/asec/com.netease.officerumble-1/pkg.apk/assets/bin/Data/Managed/System.Net.Json.dll
+libmono load dll name:/mnt/asec/com.netease.officerumble-1/pkg.apk/assets/bin/Data/Managed/WebSocket4Net.dll 
+libmono load dll name:/mnt/asec/com.netease.officerumble-1/pkg.apk/assets/bin/Data/Managed/MuhanCommon.dll
+libmono load dll name:/mnt/asec/com.netease.officerumble-1/pkg.apk/assets/bin/Data/Managed/Newtonsoft.Json.dll 
+libmono load dll name:/mnt/asec/com.netease.officerumble-1/pkg.apk/assets/bin/Data/Managed/PnixCommon.dll 
+libmono load dll name:/mnt/asec/com.netease.officerumble-1/pkg.apk/assets/bin/Data/Managed/PnixWebSocket.Client.dll 
+libmono load dll name:/mnt/asec/com.netease.officerumble-1/pkg.apk/assets/bin/Data/Managed/PnixWebSocket.Common.dll
+
+-----修安排过滤掉的DLL--------
+Boo.Lang.dll
+Mono.Security.dll
+mscorlib.dll
+System.Core.dll
+System.dll
+System.Runtime.Serialization.dll
+System.ServiceModel.dll
+System.ServiceModel.Web.dll
+System.Xml.dll

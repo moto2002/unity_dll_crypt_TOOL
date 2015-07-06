@@ -1,0 +1,2 @@
+jarsigner -verbose -keystore netease_ma26.keystore -storepass NeteaseMA26KeyPwd -keypass NeteaseMA26KeyPwd -digestalg SHA1 -sigalg MD5withRSA -tsa http://timestamp.digicert.com -signedjar signed.apk src/dist/1.apk ma26
+::@pause

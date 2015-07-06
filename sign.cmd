@@ -1,0 +1,2 @@
+jarsigner -verbose -keystore android123.keystore -storepass moto2002  -digestalg SHA1 -sigalg MD5withRSA -tsa http://timestamp.digicert.com -signedjar test_signed.apk src/dist/1.apk android123.keystore
+@pause

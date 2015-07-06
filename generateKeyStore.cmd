@@ -1,0 +1,1 @@
+keytool -genkey -alias android123.keystore -keyalg RSA -validity 20000 -keystore android123.keystore
